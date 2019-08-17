@@ -18,7 +18,7 @@ gem 'puma', '~> 3.11'
 gem 'foreman'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
-
+gem 'faker', '~> 1.6', '>= 1.6.6'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
